@@ -18,3 +18,18 @@ UI/UX Designs
 Mock-up AI Maker
 
 1. Spline
+
+VSC Extentions
+
+1. Live Server
+2. Github Copilot
+3. Prettier
+4. GitLens
+5. Spell Checker
+6. Material Icon
+7. Live Share
+8. Error lens
+9. TabNine /Codeium
+10. REST Client
+11. TODO Highlight
+12. SVG Viewwer
