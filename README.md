@@ -15,9 +15,12 @@ UI/UX Designs
 4. React Bits
 5. Jitter
 
-Mock-up AI Maker
+Mock-up AI Maker / Good AI 
 
 1. Spline
+2. Claude
+3. Blackbox
+4. Deepseek
 
 VSC Extentions
 
